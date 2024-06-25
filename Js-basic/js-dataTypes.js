@@ -18,3 +18,9 @@ console.log( 4
    //boolean  =? true/false
    //null => standalone value
    // undefined => 
+    //symbol => unique
+
+   //object 
+   
+   console.log(typeof age);
+   console.log(typeof null);
