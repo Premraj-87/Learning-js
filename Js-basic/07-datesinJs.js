@@ -13,5 +13,18 @@ let myCreateDate = new Date("01-14-2024");
 
 let myTimeStamps = Date.now()
 
-console.log(myTimeStamps);
-console.log(myCreateDate.getTime() );
+// console.log(myTimeStamps);
+// console.log(myCreateDate.getTime() );
+// console.log(Math.floor(Date.now()/1000));
+
+let newDate = new Date()
+console.log(newDate);
+console.log(newDate.getFullYear());
+console.log(newDate.getDay())
+
+
+// i`${ newDate.getDate()}and the time `
+newDate.toLocaleString('default',{ 
+    weekday: "long",
+    timeZone: 
+})
