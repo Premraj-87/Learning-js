@@ -1,0 +1,1 @@
+const myHeros = ["superman", "batman", "spiderman", "thor"]
