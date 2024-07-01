@@ -1,1 +1,1 @@
-const myHeros = ["superman", "batman", "spiderman", "thor"]
+console.log(obj3);
