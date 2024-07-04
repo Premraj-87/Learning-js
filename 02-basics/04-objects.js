@@ -83,7 +83,7 @@ navbar(company = "prem")
 //     "coursename": "js in hindi",
 //     "price": "999",
 // } //json object
-
+// 
 // sometime api return array of object
 [{},
 {},
